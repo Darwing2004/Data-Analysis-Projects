@@ -12,7 +12,7 @@ Bienvenue dans mon espace dédié à l'analyse de données. Ce dépôt regroupe 
 * **Outils :** `Pandas` (Nettoyage), `Seaborn` & `Matplotlib` (Visualisation).
 * **Résultats clés :** * L'historique de crédit est le facteur n°1 (corrélation de 80%).
     * Un seuil de revenu critique a été identifié à **5 000 $**.
-* **Lien vers le projet :** [`Loan_prediction.ipynb`](./Loan_prediction.ipynb)
+* **Lien vers le projet :** [`Loan_prediction.ipynb`](LOAN_PREDICTION/Loan_prediction.ipynb)
 
 ---
 
